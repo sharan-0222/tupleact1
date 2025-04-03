@@ -1,0 +1,12 @@
+tupl=("data",True,1.22,3)
+print(tupl)
+tupl=tupl+(9,)
+print(tupl)
+tuplex=(1,2,3,4,5,6,6,7)
+print(tuplex)
+x=tuplex.count(6)
+print(x)
+e=tuplex[3:5]
+print(e)
+y=tuplex[:6]
+print(y)
